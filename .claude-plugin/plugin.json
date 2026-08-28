@@ -1,0 +1,7 @@
+{
+  "name": "claude-warcraft-sounds",
+  "description": "Plays Warcraft dwarf voice lines on Claude Code lifecycle events.",
+  "version": "0.1.0",
+  "author": { "name": "Dmitrij Schmidt" },
+  "keywords": ["sounds", "notifications", "hooks", "warcraft"]
+}

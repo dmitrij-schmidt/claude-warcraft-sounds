@@ -1,0 +1,28 @@
+"THE BEER-WARE LICENSE" (Revision 42):
+
+<dmitrij.schmidt@gmail.com> wrote the code in this repository. As long as you
+retain this notice you can do whatever you want with it. If we meet some day,
+and you think this stuff is worth it, you can buy me a beer in return.
+
+                                                        Dmitrij Schmidt
+
+
+SCOPE
+-----
+This license covers ONLY the code and configuration in this repository:
+
+    .claude-plugin/plugin.json
+    .claude-plugin/marketplace.json
+    hooks/hooks.json
+    scripts/*.sh
+    README.md
+
+It does NOT cover anything in media/. Those .wav files are audio assets from
+Warcraft III: Reign of Chaos and World of Warcraft, and remain the property of
+Blizzard Entertainment. They are included for personal, non-commercial use
+only. No license to them is granted or implied by this file -- neither I nor
+The Spriters Resource (where they were sourced) has the authority to grant one.
+
+Redistribution of this repository does not extend any rights to those files.
+No affiliation with or endorsement by Blizzard Entertainment is claimed.
+See the "Assets and licensing" section of README.md.

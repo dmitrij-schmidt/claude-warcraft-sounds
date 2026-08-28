@@ -1,0 +1,28 @@
+{
+  "name": "warcraft-sounds",
+  "owner": {
+    "name": "Dmitrij Schmidt",
+    "url": "https://github.com/dmitrij-schmidt"
+  },
+  "description": "Warcraft voice lines for Claude Code lifecycle events.",
+  "plugins": [
+    {
+      "name": "claude-warcraft-sounds",
+      "source": "./",
+      "description": "Plays Warcraft dwarf voice lines on Claude Code lifecycle events.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Dmitrij Schmidt"
+      },
+      "repository": "https://github.com/dmitrij-schmidt/claude-warcraft-sounds",
+      "license": "Beerware (code only; see LICENSE)",
+      "keywords": [
+        "sounds",
+        "notifications",
+        "hooks",
+        "warcraft"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
